@@ -1,6 +1,8 @@
 # About
 This is the official codebase of 'A dynamical clipping approach with task feedback for Proximal Policy Optimization' [paper_link](https://arxiv.org/abs/2312.07624) (our lastest version arxiv will be released below)
 
+In this research, we treat the clipping bounds secltion as a multi-arm bandit problem. And solve this problem via introducing Upper Confidence Bound (UCB), recommending the clipping bound with the highest UCB value.
+
 ## Running Examples
 
 
