@@ -23,4 +23,4 @@ In this research, we treat the clipping bounds secltion as a multi-arm bandit pr
 
 ## Thanks 
 
-Our codebase is built upon on stable_baselines3 [program_link](https://github.com/DLR-RM/stable-baselines3)
+Our codebase is built upon stable_baselines3 [program_link](https://github.com/DLR-RM/stable-baselines3)
