@@ -1,7 +1,10 @@
-# pb_ppo
-This is the official codebase of Pb-PPO
+# About
+This is the official codebase of A dynamical clipping approach with task feedback for Proximal Policy Optimization[url]([https://markdown.com.cn](https://arxiv.org/abs/2312.07624))
 
-# running examples
+## running examples
+
+
+## Citations (our lastest version arxiv will be released below)
 
 *If you utilize our codebase, please cite below:*
 ```c
