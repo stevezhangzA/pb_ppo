@@ -1,7 +1,7 @@
 # About
-This is the official codebase of A dynamical clipping approach with task feedback for Proximal Policy Optimization [paper_link](https://arxiv.org/abs/2312.07624) (our lastest version arxiv will be released below)
+This is the official codebase of 'A dynamical clipping approach with task feedback for Proximal Policy Optimization' [paper_link](https://arxiv.org/abs/2312.07624) (our lastest version arxiv will be released below)
 
-## running examples
+## Running Examples
 
 
 ## Citations
