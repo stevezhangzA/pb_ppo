@@ -3,6 +3,11 @@ This is the official codebase of 'A dynamical clipping approach with task feedba
 
 In this research, we treat the clipping bounds secltion as a multi-arm bandit problem. And solve this problem via introducing Upper Confidence Bound (UCB), recommending the clipping bound with the highest UCB value in each iterations.
 
+## Project Requirement
+Linux Platform
+stable_baselines3
+torch
+
 ## Running Examples
 
 
