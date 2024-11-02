@@ -1,5 +1,5 @@
 # About
-This is the official codebase of A dynamical clipping approach with task feedback for Proximal Policy Optimization[url]([https://markdown.com.cn](https://arxiv.org/abs/2312.07624))
+This is the official codebase of A dynamical clipping approach with task feedback for Proximal Policy Optimization[url](https://arxiv.org/abs/2312.07624)
 
 ## running examples
 
