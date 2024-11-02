@@ -8,7 +8,9 @@ In this research, we treat the clipping bounds secltion as a multi-arm bandit pr
 | Requirement      | 
 | ----------- | 
 | linux platform      | 
+|mujoco|
 | stable_baselines3   |
+|gym|
 | torch   |
 
 ## Running Examples
